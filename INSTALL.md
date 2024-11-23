@@ -2,20 +2,22 @@
 
 ## Data Collection
 
-Indicate how to collect the data necessary for this project :
-- Where and how to get the data ?
-- Where and how to integrate the data in the repository ? (example : in the direcctory data/raw)
+La base de Météo France pour la pluiviométrie, et la BD ortho pour l'affichage de tous les batiments et le calcul de surface des toitures. 
+Géocodage d'adresse, nominatime, la BAN, ou google en dernier
 
 ## Dependencies
 
-List the dependencies necessary to the project so that it can run locally :
-- language, libraries and packages
-- how to install them
-- recommended : use an environment file such as requirements.txt (py) or DESCRIPTION (R)
+Voir l'installation de la version docker 
+
+[pixelhumain/docker-aap](https://gitlab.adullact.net/pixelhumain/docker-aap)
 
 ## Development
 
-Indicate how to run the solution in development mode locally.
+[interop](https://gitlab.adullact.net/pixelhumain/interop)
+[costum](https://gitlab.adullact.net/pixelhumain/costum)
+[Co2](https://gitlab.adullact.net/pixelhumain/co2)
+[citizenToolKit](https://gitlab.adullact.net/pixelhumain/citizenToolKit)
+[pixelhumain/docker-aap](https://gitlab.adullact.net/pixelhumain/docker-aap)
 
 ## Production
 
