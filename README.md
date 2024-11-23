@@ -32,13 +32,15 @@ Ces éléments permettront de mieux sensibiliser les bénéficiaires aux besoins
 
 ## **Documentation**
 
-Notre solution répond au problème ... . Elle consiste à ... . Cette solution s'adresse à ... .
+Notre solution répond au problème de cacluler dynamiquement au travers d'un site web, la quantité d'eau recupérable sur une toiture. Elle consiste à ... . Cette solution s'adresse aux particuliers voulant savoir s'il peut économiser, et quelle est capacité de cuve optimale pour son usage.
 
-
-Notre solution est basé sur des outils open source d'open atlas. Une page 
+Notre solution est basé sur des outils open source d'open atlas, et une connexion à la base de Météo France pour la pluiviométrie, et la BD ortho pour l'affichage de tous les batiments et le calcul de surface des toitures.
 
 
 ### **Installation**
+La base des outils se trouvent sur le gitlab de la plate-forme FusionForge ADULLACT.
+
+https://gitlab.adullact.net/pixelhumain
 
 [Guide d'installation](/INSTALL.md)
 
@@ -55,10 +57,18 @@ On entre l'adresse et on voit la maison. Ensuite, le résultat de la surface s'a
 
 
 #### **Ouverture offertes**
- Dans l'optique d'économiser des ressources, de l'énergie et des euros € : on ne se  li
+ Dans l'optique d'économiser des ressources, de l'énergie et des euros € : on ne se limite pas qu'au potentiel d'eau récupérable. 
+ Un lien vers l'outil cadastre solaire est présent. 
+ 
   **Votre potentiel d'énergie solaire**
  
+  **Votre potentiel d'énergie éolienne**
+
   
+### **POC : TRAP LO LA PLI**
+Vous pouvez tester notre solution ici :
+[Trap lo la pli](https://qa.communecter.org/costum/co/index/slug/reunionEau/#welcome)
+
 ### **Contributions**
 
 Si vous souhaitez contribuer à ce projet, merci de suivre les [recommendations](/CONTRIBUTING.md).
